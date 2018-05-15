@@ -1,0 +1,4 @@
+#Sat May 12 07:53:41 WAT 2018
+base.0=/home/ismummy/AndroidStudioProjects/BiometricAuth/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
